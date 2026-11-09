@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 520">
+<rect width="640" height="520" rx="30" fill="#FBF7ED"/>
+<circle cx="520" cy="90" r="68" fill="#DDE8D8"/>
+<path d="M260 140h120l55 235H205z" fill="#8EA283"/><rect x="258" y="140" width="124" height="35" rx="10" fill="#6D8467"/><path d="M280 175l-25 190M310 175l-8 195M340 175l8 195M370 175l25 190" stroke="#D5DFCC" stroke-width="4"/>
+<text x="320" y="482" text-anchor="middle" font-family="Georgia,serif" font-size="26" font-weight="700" fill="#183A2B">Pleated Skirt</text>
+</svg>

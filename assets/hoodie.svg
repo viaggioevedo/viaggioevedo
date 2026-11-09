@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 520">
+<rect width="640" height="520" rx="30" fill="#FBF7ED"/>
+<circle cx="520" cy="90" r="68" fill="#DDE8D8"/>
+<path d="M250 155q70-60 140 0l35 65-30 25-25-40v175H270V205l-25 40-30-25z" fill="#2F5A46"/><path d="M285 150q35-45 70 0-10 35-35 40-25-5-35-40" fill="#1D4131"/><rect x="290" y="280" width="60" height="45" rx="10" fill="#244C3A"/>
+<text x="320" y="482" text-anchor="middle" font-family="Georgia,serif" font-size="26" font-weight="700" fill="#183A2B">Signature Hoodie</text>
+</svg>

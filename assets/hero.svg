@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 760">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F6F0E2"/><stop offset="1" stop-color="#E1EBD9"/></linearGradient></defs>
+<rect width="1000" height="760" rx="38" fill="url(#g)"/>
+<circle cx="805" cy="155" r="130" fill="#B8CDAE"/>
+<rect x="115" y="90" width="770" height="530" rx="32" fill="#FFF9EE" opacity=".72"/>
+<circle cx="505" cy="195" r="52" fill="#D7BFA1"/>
+<path d="M450 255q55-28 110 0l50 205q-55 65-105 88-55-23-110-88z" fill="#234B36"/>
+<path d="M450 270l-65 90 32 31 52-70zM560 270l65 90-32 31-52-70z" fill="#234B36"/>
+<path d="M466 545l-10 92M544 545l10 92M417 387l-45 108M593 387l45 108" stroke="#D7BFA1" stroke-width="30" stroke-linecap="round"/>
+<rect x="145" y="135" width="210" height="122" rx="18" fill="#234B36"/>
+<text x="250" y="187" text-anchor="middle" font-family="Georgia" font-size="27" font-weight="700" fill="#F6F0E2">NEW DROP</text>
+<text x="250" y="220" text-anchor="middle" font-family="Arial" font-size="15" fill="#DDE7D7">Modern Essentials</text>
+<rect x="690" y="450" width="165" height="105" rx="18" fill="#F6F0E2" stroke="#98B091" stroke-width="3"/>
+<text x="772" y="490" text-anchor="middle" font-family="Arial" font-size="14" font-weight="700" fill="#183A2B">SIGNATURE</text>
+<text x="772" y="520" text-anchor="middle" font-family="Georgia" font-size="22" fill="#183A2B">Collection</text>
+</svg>

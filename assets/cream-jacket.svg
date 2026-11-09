@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 520">
+<rect width="640" height="520" rx="30" fill="#FBF7ED"/>
+<circle cx="520" cy="90" r="68" fill="#DDE8D8"/>
+<path d="M240 145 290 120h60l50 25 45 95-47 20-23-55v175H265V205l-23 55-47-20z" fill="#EFE3C7" stroke="#806E4F" stroke-width="4"/><path d="M290 120l30 50 30-50" fill="#FFF9EE" stroke="#806E4F" stroke-width="4"/>
+<text x="320" y="482" text-anchor="middle" font-family="Georgia,serif" font-size="26" font-weight="700" fill="#183A2B">Cream Jacket</text>
+</svg>

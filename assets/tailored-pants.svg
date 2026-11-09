@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 520">
+<rect width="640" height="520" rx="30" fill="#FBF7ED"/>
+<circle cx="520" cy="90" r="68" fill="#DDE8D8"/>
+<path d="M265 130h110l-12 250h-62l19-170-19 170h-64z" fill="#66795D"/><rect x="268" y="130" width="104" height="36" rx="10" fill="#4E6148"/>
+<text x="320" y="482" text-anchor="middle" font-family="Georgia,serif" font-size="26" font-weight="700" fill="#183A2B">Tailored Pants</text>
+</svg>

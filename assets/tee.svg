@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 520">
+<rect width="640" height="520" rx="30" fill="#FBF7ED"/>
+<circle cx="520" cy="90" r="68" fill="#DDE8D8"/>
+<path d="M250 150 290 128h60l40 22 50 55-35 30-35-37v174H270V198l-35 37-35-30z" fill="#F3E9D6" stroke="#234B36" stroke-width="4"/><path d="M290 128q30 37 60 0" fill="#FFF9EE" stroke="#234B36" stroke-width="3"/>
+<text x="320" y="482" text-anchor="middle" font-family="Georgia,serif" font-size="26" font-weight="700" fill="#183A2B">Essential Tee</text>
+</svg>

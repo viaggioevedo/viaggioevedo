@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 520">
+<rect width="640" height="520" rx="30" fill="#FBF7ED"/>
+<circle cx="520" cy="90" r="68" fill="#DDE8D8"/>
+<path d="M235 150 285 122h70l50 28 48 72-42 26-31-48v180H260V200l-31 48-42-26z" fill="#D8DFC8" stroke="#234B36" stroke-width="4"/><path d="M285 122l35 43 35-43" fill="#FBF7ED" stroke="#234B36" stroke-width="4"/><path d="M320 165v205" stroke="#234B36" stroke-width="3"/>
+<text x="320" y="482" text-anchor="middle" font-family="Georgia,serif" font-size="26" font-weight="700" fill="#183A2B">Relaxed Linen Shirt</text>
+</svg>

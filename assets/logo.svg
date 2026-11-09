@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 90">
+<rect width="360" height="90" rx="18" fill="#F6F0E2"/>
+<circle cx="45" cy="45" r="25" fill="#234B36"/>
+<path d="M28 51c10-18 19-26 34-29-5 11-12 20-23 29 11-5 21-5 31-1-12 12-25 17-42 14z" fill="#F6F0E2"/>
+<text x="83" y="56" font-family="Georgia,serif" font-size="31" font-weight="700" fill="#183A2B">viaggioevedo</text>
+</svg>
